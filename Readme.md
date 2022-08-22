@@ -1,4 +1,4 @@
-# Project 8 [Live link]()
+# Project 8 [Live link](https://myclassproject8.netlify.app/)
 
 ## skills gained from this project
     - I use flexbox to align elements into columns or rows.
@@ -11,3 +11,4 @@
     - 2 hours
 
 ![image](./Screenshot%20(368).png)
+![image](./Screenshot%20(10).png)
