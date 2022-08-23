@@ -1,4 +1,4 @@
-# Project 8 [Live link](https://myclassproject8.netlify.app/)
+# Project 8 [Live link](https://webdesign-project8.netlify.app/)
 
 ## skills gained from this project
     - I use flexbox to align elements into columns or rows.
